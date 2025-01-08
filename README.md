@@ -1,3 +1,4 @@
+![logo](https://github.com/allwinrajan/OSI-REFERENCE-MODEL/blob/db0659f62915e042a583421425f031be879dbd89/Layering%20Diagram.png)
 ### **OSI Reference Model 🌐**
 
 ---

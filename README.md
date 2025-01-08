@@ -1,4 +1,4 @@
-![logo] (Layering Diagram.png)
+![logo](Layering Diagram.png)
 
 # OSI REFERENCE MODEL
 

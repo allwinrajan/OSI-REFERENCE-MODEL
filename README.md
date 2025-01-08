@@ -1,3 +1,5 @@
+![logo] (Layering Diagram.png)
+
 # OSI REFERENCE MODEL
 
 ### Layer 1: Physical Layer 

@@ -1,4 +1,4 @@
-![logo](Layering Diagram.png)
+![logo]([Layering Diagram.png](https://github.com/allwinrajan/OSI-REFERENCE-MODEL/blob/750b32c69ab81d30b13a2e1f270d4df38bf98631/Layering%20Diagram.png))
 
 # OSI REFERENCE MODEL
 
